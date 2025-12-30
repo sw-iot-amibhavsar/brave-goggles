@@ -1,7 +1,7 @@
 ! name: Strong Patient Reviews Discovery
 ! description: Boost known patient review platforms with relative priorities and block unwanted sources
 ! public: true
-! author: Priya Patel
+! author: Priya Patel 
 
 # High priority boosts (repeated for relative weight)
 boost:site:realself.com
